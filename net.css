@@ -23,7 +23,6 @@ body{
     justify-content: center;
     gap: 2rem;
 }
-
 .english{
     text-decoration: none;
         color: #fff;
@@ -82,7 +81,6 @@ main{
     border: none;
     margin-left: 1rem;
 }
-
 .sub{
     align-items: center;
     margin: 0.5rem 0;
@@ -142,9 +140,7 @@ footer > h3{
 }
 .footer-divs{
     display:flex;
-    
     justify-content: space-evenly;
-    
 }
 .footer-con{
     display: flex;
@@ -152,7 +148,6 @@ footer > h3{
 }
 .footer-con > a{
     color: white;
-
 }
 .enf{
     margin-right: 6rem;
@@ -175,12 +170,6 @@ footer > h3{
 .q3:hover .qb3 {
     display: block;
 }
-/* .qb{
-    display: none;
-}
-.qh:hover .qb{
-    display: block;
-} */
 .english:hover{
     background-color: #fff;
     color: black;
